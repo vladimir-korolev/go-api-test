@@ -1,0 +1,4 @@
+*.md
+charts/
+k8s/
+scripts/
